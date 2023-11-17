@@ -3,3 +3,4 @@
 
 //Exercise #2: Variable Reassignment
 //Start coding here
+console.log("mumumumumumumumumu");
